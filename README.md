@@ -2,9 +2,7 @@
 
 ![screencapture-aimt-learned-netlify-app-2023-07-23-15_10_27](https://github.com/Parvej45/Learned_website/assets/97740459/aab85518-2d39-46f7-bcd3-f1addfd75597)
 
-
-Try this out::
-https://aimt-learned.netlify.app/
+## 📌 **Live Site URL:** <a href="https://aimt-learned.netlify.app/">**Visit Now** 🚀</a>
 
 Our Educational Website would provide all the education-related stuff:
 Notes, Sample Papers, Online Video Lectures, and courses to crack competitive
